@@ -7,4 +7,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Orders system created with laravel framework.
 
 Inputing, sorting, search, filtering, details.
-Migration with orders table is ready aswell as orders seed to randonmly generate 50 of them.
+Migration of orders table is ready to use aswell as orders seed to randonmly generate 50 of them.
